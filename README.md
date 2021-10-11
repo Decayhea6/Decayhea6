@@ -1,6 +1,6 @@
  Hi, I’m @Decayhea6
  I’m interested in improving my coding skills
- I’m currently learning Python and Godot
+ I’m currently learning Pythonm, Godot, and Kotlin
 
 
 
